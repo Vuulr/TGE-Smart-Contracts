@@ -24,10 +24,10 @@ Fully ERC20 compliant token contract.
 Code: [VUULRToken.sol](contracts/VUULRToken.sol)
 Token Configuration: [VUULRTokenConfig.sol](contracts/VUULRTokenConfig.sol)
 
-**Name of Token:** Vuulr Token
-**Token Symbol:** VUU
-**Token Decimals:** 18
-**Total Supply:** 1,000,000,000
+* **Name of Token:** Vuulr Token
+* **Token Symbol:** VUU
+* **Token Decimals:** 18
+* **Total Supply:** 1,000,000,000
 
 
 Contract 2: Vesting Contract
